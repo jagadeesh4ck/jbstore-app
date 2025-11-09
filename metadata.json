@@ -1,0 +1,5 @@
+{
+  "name": "JB Stores",
+  "description": "An e-commerce website similar to Flipkart, built with React and Tailwind CSS. It showcases a modern storefront with product listings, detailed views, and a shopping cart functionality.",
+  "requestFramePermissions": []
+}
